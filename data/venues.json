@@ -1,0 +1,21 @@
+[
+  {
+    "id": "example-venue",
+    "name": "Example Venue (delete me)",
+    "city": "Farmington",
+    "state": "NM",
+    "type": "Bar / Club",
+    "capacity": "150",
+    "genres": "Rock, Metal, Punk",
+    "pays": "Door split",
+    "sound": "House PA and engineer",
+    "backline": "Drums shared, bring your own amps",
+    "loadIn": "Back alley, two steps up",
+    "allAges": "21+",
+    "booking": "Message the venue on Instagram",
+    "website": "",
+    "notes": "This is a sample entry so you can see the layout. Replace it with a real venue or delete it.",
+    "submittedBy": "Kandy Records",
+    "updated": "2026-10"
+  }
+]
