@@ -22,7 +22,7 @@ export default function Home() {
               Free tools and <em>straight talk</em> for DIY bands.
             </h1>
             <p className="lead">
-              Make a flyer. Draw a stage plot. Learn how booking actually works. Built by a band that's been doing this since 2017, and free for anyone who's doing it now.
+              Make a flyer. Draw a stage plot. Learn how booking actually works. Built by a band that's been doing this since 2007, and free for anyone who's doing it now.
             </p>
             <div className="hero-actions">
               <a className="btn btn-primary" href={liveTools[0]?.url || "/tools"}>Make a flyer</a>
