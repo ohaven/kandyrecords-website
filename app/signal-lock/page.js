@@ -43,7 +43,7 @@ export default function SignalLockPage() {
           <div className="section-head">
             <div>
               <span className="kicker">Free</span>
-              <h2>Everything you need on stage. Free.</h2>
+              <h2>Your essential tools. Always free.</h2>
             </div>
           </div>
           <div className="grid grid-2">
@@ -87,7 +87,7 @@ export default function SignalLockPage() {
           <div className="grid grid-2">
             <div className="card">
               <span className="kicker">Privacy</span>
-              <h3>Nothing leaves your phone.</h3>
+              <h3>Your sound stays yours.</h3>
               <p>The microphone is used only to hear your instrument while the tuner is open, and audio is never recorded or sent anywhere. Settings and setlists are saved on your phone. No analytics, no tracking, no third-party code.</p>
               <div className="card-foot"><Link className="btn btn-outline btn-sm" href="/signal-lock/privacy">Read the privacy policy</Link></div>
             </div>

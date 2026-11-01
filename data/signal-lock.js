@@ -52,6 +52,6 @@ export const signalLock = {
   pro: [
     { title: "Industrial Outlaw", text: "A dark premium instrument finish: brass gauges, needle dial, riveted panels." },
     { title: "Vintage Ivory", text: "A light premium instrument finish in the same brass-and-needle style." },
-    { title: "Drum machine", text: "Eight practice grooves: Rock, Half-Time, Four on the Floor, Punk, Metal 16ths, Shuffle, Waltz, and 6/8. Same tempo controls as the metronome." },
+    { title: "Drum machine", text: "Eight practice grooves: Rock, Half-Time, Four Floor, Punk, Metal 16ths, Shuffle, Waltz, and 6/8. Same tempo controls as the metronome." },
   ],
 };
