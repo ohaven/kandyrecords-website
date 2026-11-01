@@ -80,6 +80,15 @@ export const site = {
       status: "live",
     },
     {
+      slug: "signal-lock",
+      name: "Signal Lock",
+      kicker: "iPhone App",
+      badge: "Coming soon · iPhone",
+      blurb: "Tune. Practice. Perform. A free guitar and bass tuner, metronome, and setlist tool for iPhone, with an optional one-time Pro upgrade.",
+      url: "/signal-lock",
+      status: "soon",
+    },
+    {
       slug: "setlist",
       name: "Setlist Builder",
       kicker: "Coming Soon",
