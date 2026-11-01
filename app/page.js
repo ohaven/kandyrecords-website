@@ -43,8 +43,8 @@ export default function Home() {
             </div>
             <Link className="btn btn-outline btn-sm" href="/tools">All tools</Link>
           </div>
-          <div className="grid grid-4">
-            {site.tools.slice(0, 4).map((t) => <ToolCard key={t.slug} tool={t} />)}
+          <div className="grid grid-tools">
+            {site.tools.map((t) => <ToolCard key={t.slug} tool={t} />)}
           </div>
         </div>
       </section>

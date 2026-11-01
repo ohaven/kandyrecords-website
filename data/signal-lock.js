@@ -29,7 +29,7 @@ export const signalLock = {
   // once forwarding is set up and verified.
   supportEmail: "signal99haven@gmail.com",
   // Name of the app operator as it will appear on the Apple developer account.
-  // CONFIRM SPELLING before deploy.
+  // Confirmed 2026-11-01.
   operatorName: "Orlando Haven",
   privacyEffectiveDate: "November 1, 2026",
 

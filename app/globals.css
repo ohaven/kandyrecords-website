@@ -258,3 +258,10 @@ a.card:hover { transform: translateY(-3px); border-color: var(--accent); color: 
   .sl-shots { grid-template-columns: repeat(2, 1fr); }
   .sl-nav-inner { justify-content: center; }
 }
+
+/* Homepage tools row: 5 across on desktop, wraps to 4 / 3 / 2 / 1 as the screen narrows */
+.grid-tools { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; }
+.grid-tools .card { padding: 20px; }
+.grid-tools .card h3 { font-size: 1.3rem; }
+.grid-tools .card p { font-size: 0.95rem; }
+@media (max-width: 480px) { .grid-tools { grid-template-columns: 1fr; } }
